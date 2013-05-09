@@ -9,7 +9,7 @@
 
     <application android:label="@string/app_name">
 
-        <activity android:name=".TestOne"
+        <activity android:name=".TestOneCws"
                   android:label="@string/app_name"
                   android:screenOrientation="landscape"
                   android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
